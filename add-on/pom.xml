@@ -7,16 +7,16 @@
 	<groupId>org.vaadin.crudui</groupId>
 	<artifactId>crudui</artifactId>
 	<packaging>jar</packaging>
-	<version>7.2.0</version>
+	<version>7.2.1</version>
 	<name>Crud UI Add-on</name>
 
 	<properties>
-		<maven.compiler.source>21</maven.compiler.source>
-		<maven.compiler.target>21</maven.compiler.target>
+		<maven.compiler.source>17</maven.compiler.source>
+		<maven.compiler.target>17</maven.compiler.target>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-		<vaadin.version>24.4.4</vaadin.version>
+		<vaadin.version>24.10.1</vaadin.version>
 
 		<drivers.dir>${project.basedir}/drivers</drivers.dir>
 		<maven.deploy.skip>true</maven.deploy.skip>
